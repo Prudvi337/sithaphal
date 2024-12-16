@@ -1,0 +1,11 @@
+numpy
+pandas
+python-pptx
+Pillow
+PyMuPDF
+pytesseract
+opencv-python
+matplotlib
+sentence-transformers
+faiss-cpu
+transformers

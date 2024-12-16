@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+sentence-transformers
+faiss-cpu
+transformers
+torch
